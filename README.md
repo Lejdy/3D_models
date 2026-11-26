@@ -4,7 +4,7 @@ A collection of my own 3D models made in Blender.
 I started learning Blender by myself by watching YouTube videos.
 
 One of my first models was this polygon character:
-<img width="1920" height="1080" alt="Polygon_charachter" src="https://github.com/user-attachments/assets/86e67717-5b14-4320-9641-e709320b305f" />
+<img width="1920" height="1080" alt="Polygon_character" src="https://github.com/user-attachments/assets/86e67717-5b14-4320-9641-e709320b305f" />
 It is very simple, but I was proud of myself for learning the Blender basics, because at first I thought it would be impossible.
 
 Then I signed up for a school course, where I learned more about Blender and created more models.
